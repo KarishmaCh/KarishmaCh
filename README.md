@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarishmaCh
 - 👀 I’m interested in web development
 
-- 
+
 
 <!---
 KarishmaCh/KarishmaCh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
