@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @KarishmaCh
+- 👋 Hi, I’m Karishma
+- 🎓 I'm currently pursuing Bachelors in information technology (Third Year) from the Trinity College of Engineering and Research
+Engineering ,Pune.
+- ⚡️ Fast learner.
+
 - 👀 I’m interested in web development
 
+- I love Programming, Data Analysis and Machine Learning.
+
+- 💻 I'm looking for an internship in Data Analytics or Machine Learning domain.
 
 
 <!---
