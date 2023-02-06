@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karishma
-- 🎓 I'm currently pursuing Bachelors in information technology (Third Year) from the Trinity College of Engineering and Research
+- 🎓 I'm currently pursuing Bachelors in information technology (Final Year) from the Trinity College of Engineering and Research
 Engineering ,Pune.
 - ⚡️ Fast learner.
 
